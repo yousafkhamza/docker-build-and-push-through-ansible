@@ -3,8 +3,8 @@
   hosts: localhost
   become: true
   vars:
-    docker_user: "yousafkhamza"
-    docker_password: "Yousafkh@7"
+    docker_user: "yousafkhamza"          # your dockerhub username here.
+    docker_password: "**********"        # docker hub password here
     repo_url: "https://github.com/yousafkhamza/nodejs-dockerfile.git"
     repo_dest: "/var/repository/"
     repo: "yousafkhamza/dapp:1"
