@@ -151,8 +151,12 @@ _vim docker.yml_
 ```
 
 ### Output Screenshot
-![alt_txt]()
+_Playbook Output_
+![alt_txt](https://i.ibb.co/BsFBSNh/Screenshot-2021-10-29-165629.png)
+_From DockerHub_
+![alt_txt](https://i.ibb.co/zr8Kt0C/Screenshot-2021-10-29-181256.png)
 ----
+
 ## Reference
 On this playbook was I used my old [nodjs](https://github.com/yousafkhamza/nodejs-dockerfile)  docker file to create image so please be check the same. So, that repo cloned to a destination through ansible and genrated the image from this.
 
