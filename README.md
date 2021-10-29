@@ -3,7 +3,7 @@
 
 ---
 ## Description
-It's just an ansible playbook and that the playbook installs docker and build a nodejs image from a docker file and that docker file fetched from an another repository and after then that image push to your docker hub. I just do this for who studied ansible and docker from the scratch that kind of guys can helpful. It's just creating a docker image through ansible and then push that same to Docker hub.
+It's just an ansible playbook and that the playbook installs docker and builds a nodejs image from a docker file and that docker file fetched from an another repository and after then that image push to your docker hub. I just do this for those who studied ansible and docker from scratch that kind of guy can helpful. It's just creating a docker image through ansible and then pushing that same to the Docker hub.
 
 ----
 ## Feature
